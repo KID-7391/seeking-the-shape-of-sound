@@ -1,0 +1,15 @@
+scipy==1.2.1
+torch==1.4.0
+matplotlib==3.0.3
+numpy==1.16.2
+tqdm==4.31.1
+lmdb==0.94
+opencv_python==4.4.0.42
+torchaudio==0.4.0
+torchvision==0.2.2.post3
+easydict==1.9
+librosa==0.8.0
+Pillow==8.0.1
+PyYAML==5.3.1
+scikit_learn==0.23.2
+tensorboardX==2.1

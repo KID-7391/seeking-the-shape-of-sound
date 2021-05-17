@@ -1,0 +1,5 @@
+save/*
+pretrained_models/*
+**/*.pyc
+evaluation/**
+data.zip
