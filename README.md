@@ -10,7 +10,7 @@ An implement of the CVPR 2021 paper: [**Seeking the Shape of Sound: An Adaptive 
 * **Pytorch** 1.4.0
 
 <!-- This code is implemented with Pytorch (tested on 1.4.0).  -->
-See [requirement.txt](https://github.com/KID-7391/seeking-the-shape-of-sound/blob/main/requirement.txt).
+See [requirement.txt](https://github.com/KID-7391/seeking-the-shape-of-sound/blob/master/requirement.txt).
 
 ## Data preparation
 Download [VoxCeleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html), [VGGFace](https://drive.google.com/file/d/1qmxGwW5_lNQbTqwW81yPObJ-S-n3rpXp/view) and unzip them to ./data.
