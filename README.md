@@ -40,7 +40,7 @@ python3 train.py config/train_reweight.yaml
 ```
 3. Extract identity weights from saved model file:
 ```shell
-python3 extract_id_weight.py config/extract_id_weight.yaml
+python3 extract_id_weight.py config/train_reweight.yaml
 ```
 The 
 4. Retrain the final model:
